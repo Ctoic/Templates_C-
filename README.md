@@ -5,7 +5,7 @@ For example you are making a calculatoor which add multipy divide and subtract n
 // picture is taken from @geeekforgeeks.                                                                                     
 C++ adds two new keywords to support templates: ‘template’ and ‘typename’. The second keyword can always be replaced by keyword ‘class’.
 Compile time is the period when the programming code (such as C#, Java, C, Python) is converted to the machine code (i.e. binary code). Runtime is the period of time when a program is running and generally occurs after compile time.
-![templates-cpp](https://user-images.githubusercontent.com/90936436/155078687-e8cd5d68-0ef7-4896-863c-661aecb826a2.jpg)
+ ![templates-cpp](https://user-images.githubusercontent.com/90936436/155078687-e8cd5d68-0ef7-4896-863c-661aecb826a2.jpg)
 # How do templates work? 
 Templates are expanded at compiler time. This is like macros. The difference is, the compiler does type checking before template expansion. The idea is simple, source code contains only function/class, but compiled code may contain multiple copies of same function/class. 
  
